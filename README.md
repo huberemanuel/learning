@@ -22,3 +22,5 @@ This repository contains learning resources of all kinds and my personal comment
 - [] [MLOps Coffee Sessions #18: Luigi in Production](https://www.youtube.com/watch?v=ShBod1yXUeg&list=PL3vkEKxWd-ut8z29en9gIluPXkMM3ISIr&index=16)
 - [] [MLOps Coffee Sessions #24: Machine Learning Design Patterns](https://www.youtube.com/watch?v=nwsTV2Q4hI0&list=PL3vkEKxWd-ut8z29en9gIluPXkMM3ISIr&index=22)
 
+### Data versioning
+- [] [Data versioning in machine learning projects - Dmitry Petrov](https://www.youtube.com/watch?v=BneW7jgB298)
