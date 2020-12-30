@@ -15,7 +15,7 @@ This repository contains learning resources of all kinds and my personal comment
     * Measure your tiny accomplishments on a regular basis, evaluating your progress to know whether you are improving yourself or not.
 
 ### MLops
-- [] [MLOps Coffee Sessions #1: Serving Models with Kubeflow](https://www.youtube.com/watch?v=NNXoZ53gHyE&list=PL3vkEKxWd-ut8z29en9gIluPXkMM3ISIr&index=1)
+- [X] [MLOps Coffee Sessions #1: Serving Models with Kubeflow](https://www.youtube.com/watch?v=NNXoZ53gHyE&list=PL3vkEKxWd-ut8z29en9gIluPXkMM3ISIr&index=1)
     
     One of the difficulties of using Kubeflow is to have to setup a cluster and to work with Kubernetes. Kubeflow is focused on production environments, so I would not recommend it to a researcher that only want to have the pipelines and reproducibility gains from that architecture.
 - [] [MLOps Coffee Sessions #5 Airflow in MLOps](https://www.youtube.com/watch?v=7dcUWLrGLMw&list=PL3vkEKxWd-ut8z29en9gIluPXkMM3ISIr&index=5)
