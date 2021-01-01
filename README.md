@@ -13,6 +13,9 @@ This repository contains learning resources of all kinds and my personal comment
     * Do more of what already works. Stop trying to add unnecessary new methods and tools, you already know a lot. 
     * Avoid tiny losses. Removing what blocks you can have a better impact than focusing on new things to add to your life.
     * Measure your tiny accomplishments on a regular basis, evaluating your progress to know whether you are improving yourself or not.
+- [X] [RANT: Programação NÃO É Fácil](https://www.youtube.com/watch?v=V7oUDL7E1g4)
+
+    Skills are not easily attainable. In that sense, speeches that highlight that you can be a rockstar researcher or even the next Bill Gates are false. Malcolm Gladwell says in his book ( Outliers: The Story of Success) that it takes 10,000 hours for someone to master a subject, Akita mentions that an intern would need at least 1,400 hours to get his first internship. Learning is not easy, you need to progress every day and enjoy the process.
 
 ### MLops
 - [X] [MLOps Coffee Sessions #1: Serving Models with Kubeflow](https://www.youtube.com/watch?v=NNXoZ53gHyE&list=PL3vkEKxWd-ut8z29en9gIluPXkMM3ISIr&index=1)
