@@ -24,6 +24,16 @@ This repository contains learning resources of all kinds and my personal comment
     You should not stick to study programs. In his vision, the best way to learn is by working on practical problems and overcome difficulties as they arise.
     To face the difficulties, it is necessary to know how to ask the right questions. The correct answer is worthless if it is not accompanied by the correct question, as in The Hitchhiker's Guide to the Galaxy.
 
+### NLP
+- [] [How Transformers work in deep learning and NLP: an intuitive introduction](https://theaisummer.com/transformer/)
+- [] [A Deep Dive Into the Transformer Architecture – The Development of Transformer Models](https://blog.exxactcorp.com/a-deep-dive-into-the-transformer-architecture-the-development-of-transformer-models/)
+- [] [A Survey on Transformer Models in Machine Learning](https://hannes-stark.com/assets/transformer_survey.pdf)
+- [] [DeepMind x UCL | Deep Learning Lectures | 7/12 | Deep Learning for Natural Language Processing](https://www.youtube.com/watch?v=8zAP2qWAsKg&feature=youtu.be&ab_channel=DeepMind)
+- [] [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
+- [] [The Transformer Family](https://lilianweng.github.io/lil-log/2020/04/07/the-transformer-family.html)
+- [] [The Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html)
+- [] [Attention Is All You Need](https://arxiv.org/pdf/1706.03762v5.pdf)
+
 ### MLops
 - [X] [MLOps Coffee Sessions #1: Serving Models with Kubeflow](https://www.youtube.com/watch?v=NNXoZ53gHyE&list=PL3vkEKxWd-ut8z29en9gIluPXkMM3ISIr&index=1)
     
