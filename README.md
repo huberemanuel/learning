@@ -16,6 +16,13 @@ This repository contains learning resources of all kinds and my personal comment
 - [X] [RANT: Programação NÃO É Fácil](https://www.youtube.com/watch?v=V7oUDL7E1g4)
 
     Skills are not easily attainable. In that sense, speeches that highlight that you can be a rockstar researcher or even the next Bill Gates are false. Malcolm Gladwell says in his book ( Outliers: The Story of Success) that it takes 10,000 hours for someone to master a subject, Akita mentions that an intern would need at least 1,400 hours to get his first internship. Learning is not easy, you need to progress every day and enjoy the process.
+- [X] [Guia DEFINITIVO de Aprendendo a Aprender](https://www.youtube.com/watch?v=oUPaJxk6TZ0)
+
+    Akita emphasizes that high salaries with low-value delivery bring a bubble situation. At some moment it will explode and vanish the majority of those unrealistic opportunities. 
+    In practice, you can only receive the amount of value that you deliver.
+
+    You should not stick to study programs. In his vision, the best way to learn is by working on practical problems and overcome difficulties as they arise.
+    To face the difficulties, it is necessary to know how to ask the right questions. The correct answer is worthless if it is not accompanied by the correct question, as in The Hitchhiker's Guide to the Galaxy.
 
 ### MLops
 - [X] [MLOps Coffee Sessions #1: Serving Models with Kubeflow](https://www.youtube.com/watch?v=NNXoZ53gHyE&list=PL3vkEKxWd-ut8z29en9gIluPXkMM3ISIr&index=1)
