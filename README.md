@@ -25,7 +25,7 @@ This repository contains learning resources of all kinds and my personal comment
     To face the difficulties, it is necessary to know how to ask the right questions. The correct answer is worthless if it is not accompanied by the correct question, as in The Hitchhiker's Guide to the Galaxy.
 
 ### NLP
-- [] [How Transformers work in deep learning and NLP: an intuitive introduction](https://theaisummer.com/transformer/)
+- [X] [How Transformers work in deep learning and NLP: an intuitive introduction](https://theaisummer.com/transformer/)
 - [] [A Deep Dive Into the Transformer Architecture – The Development of Transformer Models](https://blog.exxactcorp.com/a-deep-dive-into-the-transformer-architecture-the-development-of-transformer-models/)
 - [] [A Survey on Transformer Models in Machine Learning](https://hannes-stark.com/assets/transformer_survey.pdf)
 - [] [DeepMind x UCL | Deep Learning Lectures | 7/12 | Deep Learning for Natural Language Processing](https://www.youtube.com/watch?v=8zAP2qWAsKg&feature=youtu.be&ab_channel=DeepMind)
