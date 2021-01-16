@@ -41,6 +41,7 @@ This repository contains learning resources of all kinds and my personal comment
 - [] [MLOps Coffee Sessions #5 Airflow in MLOps](https://www.youtube.com/watch?v=7dcUWLrGLMw&list=PL3vkEKxWd-ut8z29en9gIluPXkMM3ISIr&index=5)
 - [] [MLOps Coffee Sessions #18: Luigi in Production](https://www.youtube.com/watch?v=ShBod1yXUeg&list=PL3vkEKxWd-ut8z29en9gIluPXkMM3ISIr&index=16)
 - [] [MLOps Coffee Sessions #24: Machine Learning Design Patterns](https://www.youtube.com/watch?v=nwsTV2Q4hI0&list=PL3vkEKxWd-ut8z29en9gIluPXkMM3ISIr&index=22)
+- [] [DevOps for Machine Learning (Part 1) - Getting Started with MLOps with Azure DevOps](https://www.youtube.com/watch?v=YAqTt4DYIbw)
 
 ### Data versioning
 - [] [Data versioning in machine learning projects - Dmitry Petrov](https://www.youtube.com/watch?v=BneW7jgB298)
