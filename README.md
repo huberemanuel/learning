@@ -47,6 +47,14 @@ This repository contains learning resources of all kinds and my personal comment
 - [] [Data versioning in machine learning projects - Dmitry Petrov](https://www.youtube.com/watch?v=BneW7jgB298)
 
 ### Software Engineering
-- [] [A Visual Guide to Regular Expression](https://amitness.com/regex/)
+- [X] [A Visual Guide to Regular Expression](https://amitness.com/regex/)
 
     Simple and concise tutorial on regex.
+### Misc
+- [X] [Neuro Symbolic AI - David Cox](https://www.youtube.com/watch?v=IbDcMPbumlU&t=651s)
+
+    Deep Learning can't deal with slightly changed objects on a view, on the other hand, humans can understand those variations easily. This brings security and quality concerns.
+
+    Neurosymbolic uses NNs for learning from unstructured data and symbolic systems to give the final system answers. The system presented is trained with Reinforcement Learning algorithms.
+
+    >"Actual DL systems works on correlations, if a new variable is presented to the system then the system is broke" - David.
