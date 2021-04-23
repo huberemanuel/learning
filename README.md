@@ -26,7 +26,7 @@ This repository contains learning resources of all kinds and my personal comment
 
 ### NLP
 - [X] [How Transformers work in deep learning and NLP: an intuitive introduction](https://theaisummer.com/transformer/)
-- [] [A Deep Dive Into the Transformer Architecture – The Development of Transformer Models](https://blog.exxactcorp.com/a-deep-dive-into-the-transformer-architecture-the-development-of-transformer-models/)
+- [X] [A Deep Dive Into the Transformer Architecture – The Development of Transformer Models](https://blog.exxactcorp.com/a-deep-dive-into-the-transformer-architecture-the-development-of-transformer-models/)
 - [] [A Survey on Transformer Models in Machine Learning](https://hannes-stark.com/assets/transformer_survey.pdf)
 - [] [DeepMind x UCL | Deep Learning Lectures | 7/12 | Deep Learning for Natural Language Processing](https://www.youtube.com/watch?v=8zAP2qWAsKg&feature=youtu.be&ab_channel=DeepMind)
 - [] [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
@@ -45,3 +45,8 @@ This repository contains learning resources of all kinds and my personal comment
 
 ### Data versioning
 - [] [Data versioning in machine learning projects - Dmitry Petrov](https://www.youtube.com/watch?v=BneW7jgB298)
+
+### Software Engineering
+- [] [A Visual Guide to Regular Expression](https://amitness.com/regex/)
+
+    Simple and concise tutorial on regex.
